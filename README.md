@@ -15,7 +15,7 @@
 ## 🎨 Installation
 
 ```sh
-ya pkg add Raideeen/dimidium.yazi
+ya pkg add Raideeen/dimidium
 ```
 
 ## ⚙️ Usage
