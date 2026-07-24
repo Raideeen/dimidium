@@ -8,9 +8,7 @@
 
 ## 👀 Preview
 
-<div align="center">
-    <img src="preview.png" width="800" />
-</div>
+<img src="preview.png" width="600" />
 
 ## 🎨 Installation
 
